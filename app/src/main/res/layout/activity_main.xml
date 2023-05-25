@@ -9,19 +9,19 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:hint="DBS" />
+        android:hint="@string/dbs" />
 
     <Button
         android:id="@+id/Bank2"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:hint="OCBC" />
+        android:hint="@string/ocbc" />
 
     <Button
         android:id="@+id/Bank3"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:hint="UOB" />
+        android:hint="@string/uob" />
 </LinearLayout>
